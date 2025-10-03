@@ -1,3 +1,6 @@
+## Quick Start Guide
+   Simply run `npm install && npm start` in both backend and frontend folders.
+
 # MERN-Starter
 
 ## Description
@@ -72,6 +75,10 @@ This repository provides a starter template for building MERN stack applications
    - This will create optimized static files in the `dist` directory of the `frontend` folder. You can then serve these files using any static file server or integrate them with your backend.
 
 
+<<<<<<< HEAD
+## Quick Start
+Run `npm install` and `npm start` in both directories.
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -92,3 +99,7 @@ JWT_SECRET=your_secret_key_here
 4. Start MongoDB service
 5. Run backend: `cd backend && npm start`
 6. Run frontend: `cd frontend && npm start`
+=======
+## Quick Start
+   Run `npm install` and `npm start` in both directories.
+>>>>>>> main
