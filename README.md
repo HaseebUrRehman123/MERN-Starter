@@ -1,3 +1,6 @@
+## Quick Start Guide
+   Simply run `npm install && npm start` in both backend and frontend folders.
+
 # MERN-Starter
 
 ## Description
@@ -70,3 +73,7 @@ This repository provides a starter template for building MERN stack applications
      npm run build
      ```
    - This will create optimized static files in the `dist` directory of the `frontend` folder. You can then serve these files using any static file server or integrate them with your backend.
+
+
+## Quick Start
+   Run `npm install` and `npm start` in both directories.
